@@ -43,8 +43,6 @@
   </a>
 </div>
 
-<br/>
-<hr/>
 
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
@@ -53,11 +51,8 @@
   <img src="https://skillicons.dev/icons?i=ts,tailwind,py,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,postgresql,postman,git,github,vscode&perline=9"/>
 </div>
 
-<br/>
-<hr/>
 
-<br/>
-<hr/>
+
 
 <!-- LeetCode Stats -->
 <h2 align="center">🧩 LeetCode Stats</h2>
@@ -68,13 +63,6 @@
 </div>
 
 <br/>
-
-<!-- LEETCODE-STATS:START -->
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total | 🏆 Rank |
-|:-------:|:---------:|:-------:|:--------:|:-------:|
-| 59  |  76 |  8 |  143 | #1138748 |
-<!-- LEETCODE-STATS:END -->
-
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -94,12 +82,7 @@
 <br/>
 <hr/>
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryaninvaes&custom_title=Utkarsh's%20Contribution%20Graph&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=a78bfa&hide_border=true"/>
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:1F0A3B&height=120&section=footer"/>
