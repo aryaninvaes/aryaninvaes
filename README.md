@@ -56,6 +56,17 @@
 <br/>
 <hr/>
 
+<br/>
+<hr/>
+
+<!-- LeetCode Stats -->
+<h2 align="center">🧩 LeetCode Stats</h2>
+<div align="center">
+  <a href="https://leetcode.com/u/nyxVici/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/nyxVici?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats Card"/>
+  </a>
+</div>
+
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
