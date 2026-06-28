@@ -70,6 +70,9 @@
 <br/>
 
 <!-- LEETCODE-STATS:START -->
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total | 🏆 Rank |
+|:-------:|:---------:|:-------:|:--------:|:-------:|
+| 59  |  76 |  8 |  143 | #1138748 |
 <!-- LEETCODE-STATS:END -->
 
 
