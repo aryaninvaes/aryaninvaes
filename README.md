@@ -4,7 +4,7 @@
 <br/>
 
 <!-- About Me + GIF -->
-<table border="0" cellpadding="16" width="100%">
+<table width="100%" border="0" cellpadding="20" cellspacing="0">
   <tr>
     <td valign="middle">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=A78BFA&vCenter=true&width=480&lines=ECE+%40+NSUT%2728+%7C+Delhi;C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Exploring+AI+%26+Agentic+Systems;Building+Web+%26+AI-Powered+Projects" alt="Typing SVG" />
@@ -16,8 +16,8 @@
         🌐 Building <strong>web applications, developer tools, and AI-powered projects</strong>
       </p>
     </td>
-    <td align="center" valign="middle" width="220">
-      <img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif"/>
+    <td align="center" valign="middle" width="260">
+      <img height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif"/>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
   &nbsp;
-  <a href="mailto:aryaninvaes@gmail.com" target="_blank">
+  <a href="mailto:aryaninvaes@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
   &nbsp;
