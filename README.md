@@ -1,88 +1,85 @@
-<h1 data-importer="text" align="center">Hello World!</h1>
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F0A3B,50:7C3AED,100:1E1B4B&height=200&section=header&text=Hello%20World!&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Hi%20there!%20I'm%20Utkarsh%20%F0%9F%91%8B&descAlignY=58&descSize=22&descColor=C4B5FD"/>
 
-###
+<br/>
 
-<!-- About me + GIF side by side -->
-<table border="0" cellspacing="0" cellpadding="10">
+<!-- About Me + GIF -->
+<table border="0" cellpadding="16" width="100%">
   <tr>
     <td valign="middle">
-      <p data-importer="text" align="left">Hi, I'm Utkarsh👋<br><br>🎓 ECE @ NSUT'28 | Delhi<br>💻 C++ | Data Structures & Algorithms | Competitive Programming<br>🤖 Exploring AI, Agentic Systems & Automation<br>🌐 Building web applications, developer tools, and AI-powered projects</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=A78BFA&vCenter=true&width=480&lines=ECE+%40+NSUT%2728+%7C+Delhi;C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Exploring+AI+%26+Agentic+Systems;Building+Web+%26+AI-Powered+Projects" alt="Typing SVG" />
+      <br/><br/>
+      <p>
+        🎓 <strong>ECE @ NSUT'28</strong> | Delhi<br/>
+        💻 <strong>C++ | Data Structures & Algorithms | Competitive Programming</strong><br/>
+        🤖 Exploring <strong>AI, Agentic Systems & Automation</strong><br/>
+        🌐 Building <strong>web applications, developer tools, and AI-powered projects</strong>
+      </p>
     </td>
-    <td align="right" valign="middle">
-      <img data-importer="image" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif" />
+    <td align="center" valign="middle" width="220">
+      <img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif"/>
     </td>
   </tr>
 </table>
 
-###
+<br/>
 
-<!-- Tech Stacks -->
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-</div>
-
-###
-
-<!-- Social Handles -->
-<div data-importer="socials" align="center">
+<!-- Social Links -->
+<div align="center">
   <a href="https://linkedin.com/in/utkarsh-shankar-4b6316324/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
+  &nbsp;
   <a href="mailto:aryaninvaes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/nyxVici/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
+  &nbsp;
   <a href="https://codeforces.com/profile/aryaninvaes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
   </a>
 </div>
 
-###
+<br/>
+<hr/>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/activity-graph-output/activity-graph.svg?radius=16&theme=cotton-candy&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!-- Tech Stack -->
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,postgresql,postman,git,github,vscode&perline=9"/>
 </div>
 
-###
+<br/>
+<hr/>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaninvaes&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaninvaes&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aryaninvaes&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+<hr/>
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryaninvaes&custom_title=Utkarsh's%20Contribution%20Graph&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=a78bfa&hide_border=true"/>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:1F0A3B&height=120&section=footer"/>
