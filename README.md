@@ -1,12 +1,22 @@
 <h1 data-importer="text" align="center">Hello World!</h1>
 
 ###
-<!-- About me -->
-<p data-importer="text" align="left">Hi, I'm Utkarsh👋<br><br>🎓 ECE @ NSUT'28 | Delhi<br>💻 C++ | Data Structures & Algorithms | Competitive Programming<br>🤖 Exploring AI, Agentic Systems & Automation<br>🌐 Building web applications, developer tools, and AI-powered projects</p>
+
+<!-- About me + GIF side by side -->
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td valign="middle">
+      <p data-importer="text" align="left">Hi, I'm Utkarsh👋<br><br>🎓 ECE @ NSUT'28 | Delhi<br>💻 C++ | Data Structures & Algorithms | Competitive Programming<br>🤖 Exploring AI, Agentic Systems & Automation<br>🌐 Building web applications, developer tools, and AI-powered projects</p>
+    </td>
+    <td align="right" valign="middle">
+      <img data-importer="image" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ###
-<!-- Tech Stacks -->
 
+<!-- Tech Stacks -->
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -44,13 +54,20 @@
 </div>
 
 ###
+
 <!-- Social Handles -->
 <div data-importer="socials" align="center">
-  <a href="linkedin.com/in/utkarsh-shankar-4b6316324/?skipRedirect=true" target="_blank">
+  <a href="https://linkedin.com/in/utkarsh-shankar-4b6316324/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="aryaninvaes@gmail.com" target="_blank">
+  <a href="mailto:aryaninvaes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://leetcode.com/u/nyxVici/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/aryaninvaes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
   </a>
 </div>
 
@@ -67,11 +84,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryaninvaes/aryaninvaes/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-
-
-<div data-importer="image" align="right">
-  <img data-importer="image" height="98" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxMWhtampkcjQ2NGVqZmN4N3R3b3cxdHlscWE4amd2NGp0cTh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif"  />
-</div>
 
 ###
