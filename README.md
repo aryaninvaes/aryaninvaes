@@ -53,36 +53,5 @@
 
 
 
-
-<!-- LeetCode Stats -->
-<h2 align="center">🧩 LeetCode Stats</h2>
-<div align="center">
-  <a href="https://leetcode.com/u/nyxVici/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/nyxVici?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats Card"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaninvaes&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaninvaes&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryaninvaes&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-<hr/>
-
-
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:1F0A3B&height=120&section=footer"/>
